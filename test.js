@@ -13,7 +13,7 @@ it('correctly calculates the sum of 2 and 3 ', ()=> {
 
 //subtract
 it('correctly calculates the substitution of 2 and 3 ', ()=> {
-    assert.equal( operations.subtrac  sst(2,3), -1)
+    assert.equal( operations.subtract(2,3), -1)
 });
 
 //multiply
